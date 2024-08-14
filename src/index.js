@@ -5,7 +5,8 @@ import App from './App';
 import {
   BrowserRouter,
   Routes,
-  Route
+  Route,
+  HashRouter
 } from 'react-router-dom'
 
 const root = ReactDOM.createRoot(document.getElementById('root'));
