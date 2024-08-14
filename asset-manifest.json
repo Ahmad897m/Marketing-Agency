@@ -1,7 +1,7 @@
 {
   "files": {
-    "main.css": "/Marketing-Agency/static/css/main.39af0ce4.css",
-    "main.js": "/Marketing-Agency/static/js/main.165ae582.js",
+    "main.css": "/Marketing-Agency/static/css/main.c544c6de.css",
+    "main.js": "/Marketing-Agency/static/js/main.49efdac1.js",
     "static/media/header_main_img.jpg": "/Marketing-Agency/static/media/header_main_img.b1dd580818e48daddcdb.jpg",
     "static/media/video_cover_img.jpg": "/Marketing-Agency/static/media/video_cover_img.5c3be32fa0f29b4d8af5.jpg",
     "static/media/form_main_img.jpg": "/Marketing-Agency/static/media/form_main_img.d6c4abcb1e38dc80e214.jpg",
@@ -17,11 +17,11 @@
     "static/media/customer_img_2.jpg": "/Marketing-Agency/static/media/customer_img_2.a4abaf18fca355149b35.jpg",
     "static/media/customer_img_1.jpg": "/Marketing-Agency/static/media/customer_img_1.171d803a1a84c732c2c3.jpg",
     "index.html": "/Marketing-Agency/index.html",
-    "main.39af0ce4.css.map": "/Marketing-Agency/static/css/main.39af0ce4.css.map",
-    "main.165ae582.js.map": "/Marketing-Agency/static/js/main.165ae582.js.map"
+    "main.c544c6de.css.map": "/Marketing-Agency/static/css/main.c544c6de.css.map",
+    "main.49efdac1.js.map": "/Marketing-Agency/static/js/main.49efdac1.js.map"
   },
   "entrypoints": [
-    "static/css/main.39af0ce4.css",
-    "static/js/main.165ae582.js"
+    "static/css/main.c544c6de.css",
+    "static/js/main.49efdac1.js"
   ]
 }
